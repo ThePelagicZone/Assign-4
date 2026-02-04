@@ -27,7 +27,7 @@ double getShippingCost (int shipping_method,double cost)
       else {
          return (cost * 0.1);
       }  
-   else if (shipping_method == 2) {
+   } else if (shipping_method == 2) {
       if (cost <= 300) {
          return (10 + (cost * 0.02));
       }
