@@ -20,7 +20,7 @@ using doctest::Approx;
 using namespace std;
 
 double getShippingCost (int shipping_method,double cost)
-   
+   if shipping_method()
 
 
 
