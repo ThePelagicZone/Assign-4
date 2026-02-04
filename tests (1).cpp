@@ -21,8 +21,6 @@ using namespace std;
 
 
 
-//Your getShippingCost here - don't forget the Doxygen comment!
-
 
 
 ///----------------------------------------------------------------------------------
