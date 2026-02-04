@@ -19,6 +19,7 @@ using doctest::Approx;
 #include <iostream>
 using namespace std;
 
+double main
 double getShippingCost (int shipping_method,double cost) {
    if (shipping_method == 1) {
       if (cost >= 100 && cost < 500) {
