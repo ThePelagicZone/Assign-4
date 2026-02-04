@@ -49,7 +49,6 @@ double getShippingCost (int shipping_method,double cost)
    else {
       return (-1);
    }
-   }
 
 
 
