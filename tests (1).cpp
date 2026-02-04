@@ -21,7 +21,7 @@ using namespace std;
 
 double getShippingCost (int shipping_method,double cost)
    if (shipping_method == 1) {
-      if (cost < 100) {
+      if (cost  100) {
          
       }
    }
