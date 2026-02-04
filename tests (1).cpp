@@ -35,6 +35,7 @@ double getShippingCost (int shipping_method,double cost) {
       else {
          return (cost = 0);
       }
+   }
    else if (shipping_method == 3) {
       if (cost < 35) {
          return 5;
